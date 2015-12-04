@@ -4,21 +4,21 @@
         <description><![CDATA[Surge Labs]]></description>
         <link>https://thegrid.ai/surge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Dec 2015 16:45:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Dec 2015 16:45:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/surge/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Hello]]></title>
-            <description><![CDATA[<article><h1>Hello</h1><p>Hello World</p></article>]]></description>
-            <link>https://thegrid.ai/surge/hello/index.html</link>
-            <guid isPermaLink="false">346742ad-1280-4257-9bf4-829d5fc64121</guid>
-            <pubDate>Fri, 04 Dec 2015 16:45:34 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
             <link>https://thegrid.ai/surge/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">c4abb56b-30b7-4f62-8803-f2823055dc2c</guid>
             <pubDate>Fri, 04 Dec 2015 16:44:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hello]]></title>
+            <description><![CDATA[<article><h1>Hello</h1><p>Hello World</p></article>]]></description>
+            <link>https://thegrid.ai/surge/hello/index.html</link>
+            <guid isPermaLink="false">346742ad-1280-4257-9bf4-829d5fc64121</guid>
+            <pubDate>Fri, 04 Dec 2015 16:44:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
