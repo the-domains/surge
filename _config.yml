@@ -1,0 +1,28 @@
+name: Surge
+favicon: null
+layout_spectrum: 0.5540797836147249
+typography_spectrum: 0.8228279582690448
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.45190975326113403
+  lightness: 0.8766359807923436
+  saturation: 0.8351454716175795
+  rhythmicContrast: 0.8315193569287658
+purpose: []
